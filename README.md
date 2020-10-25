@@ -8,9 +8,6 @@ Download link: https://drive.google.com/file/d/1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb
 ```
 
 # How to use ?
-Clone the repository
-git clone https://github.com/tanvirakibul/dog-breed.git
-Open with Jupyter Notebook / Google Colab
 
 ```sh
 - Clone the repository
