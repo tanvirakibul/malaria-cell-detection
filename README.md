@@ -14,7 +14,7 @@ Open with Jupyter Notebook / Google Colab
 
 ```sh
 - Clone the repository
-git clone https://github.com/tanvirakibul/dog-breed.git
+git clone https://github.com/tanvirakibul/malaria-cell-detection.git
 - Open with Jupyter Notebook / Google Colab
 
 ```
